@@ -1,9 +1,5 @@
-github.com/Dmitriihub/project-protos v0.0.0-20250610065026-5d0f9f6aa755 h1:mpUogO2lGWg9kUQJQ6X0UB0ntXSpXzQwNReL1uONpo8=
-github.com/Dmitriihub/project-protos v0.0.0-20250610065026-5d0f9f6aa755/go.mod h1:7JuOUe3glI0138XvfwQMYkd3r/BjlEoXOB5AoNp1fM0=
-github.com/Dmitriihub/project-protos v0.0.0-20250611033933-a3a74babd1db h1:3an0H9Sz86Cy7jW6MNNCYzqdw4jDPVoyk6TxLQ7rkTY=
-github.com/Dmitriihub/project-protos v0.0.0-20250611033933-a3a74babd1db/go.mod h1:7JuOUe3glI0138XvfwQMYkd3r/BjlEoXOB5AoNp1fM0=
-github.com/Dmitriihub/project-protos v0.0.0-20250611034551-a12f9f280634 h1:1YD4qd++Rwr+jOjz/u01Tp0yDi9yt16ePOJ9dIh8GME=
-github.com/Dmitriihub/project-protos v0.0.0-20250611034551-a12f9f280634/go.mod h1:7JuOUe3glI0138XvfwQMYkd3r/BjlEoXOB5AoNp1fM0=
+github.com/Dmitriihub/project-protos v0.0.0-20250612152149-68bb40544f01 h1:QY0Pe9ZThBvQrlqJcIyknnV0BGZTNveIUZBcPivwlP4=
+github.com/Dmitriihub/project-protos v0.0.0-20250612152149-68bb40544f01/go.mod h1:7JuOUe3glI0138XvfwQMYkd3r/BjlEoXOB5AoNp1fM0=
 github.com/go-logr/logr v1.4.2 h1:6pFjapn8bFcIbiKo3XT4j/BhANplGihG6tvd+8rYgrY=
 github.com/go-logr/logr v1.4.2/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
 github.com/go-logr/stdr v1.2.2 h1:hSWxHoqTgW2S2qGc0LTAI563KZ5YKYRhT3MFKZMbjag=
